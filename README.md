@@ -3,7 +3,6 @@
 
 - 👋 I'm a MERN Full Stack Developer!!
 - 👀 I’m interested in Developing Creative Web Apps
-- 🌱 I’m currently learning Advanced React JS, Vue JS, Node JS & Deno JS.
 - 📫 Reach me at sujaywebdev@gmail.com or Ping me in WhatsApp at - +91 9035925456
 
 
